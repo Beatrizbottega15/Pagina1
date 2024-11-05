@@ -2,6 +2,7 @@
 ## Desenvolvido por 
 ### estudante Beatriz :smiley:
 ** áreas afins **
+
 . matemática :blush:
 . química :broken_heart:
 ### Site desenvolvido em HTMNL E CSS
