@@ -16,7 +16,7 @@
   }
   
   .menu{
-  color:rgb(0, 255, 170);
+  color:aquamarine;
   text-decoration: 0;
   font-size: 24px;
   margin: 5px;
@@ -30,7 +30,7 @@
   .box{
       width:300px;
       height:200px;
-      background-color: #b700ff;
+      background-color: #ff0419;
       border-radius: 10px;
       margin:2%;
   }
@@ -39,7 +39,7 @@
       padding: 2% 0;
   }
   #a{
-      background-color:rgb(234, 0, 255);
+      background-color:rgb(252, 56, 164);
       margin:0;
       border-radius: 10px;
       display:flex;
@@ -49,11 +49,11 @@
   }
   
   #b{
-      background-color:rgb(162, 0, 255);
+      background-color:rgb(203, 94, 247);
       margin:0;
   }
   #tituloPrincipal{
-      color:rgb(0, 89, 233);
+      color:rgb(185, 15, 100);
       font-size: 40px;
       font-family:'Times New Roman';
       text-align: center;
@@ -61,11 +61,11 @@
   
   ul{
       font-size: 28px;
-      color: rgb(255, 0, 234);
+      color: rgb(255, 0, 119);
   }
   ol{
       font-size: 28px;
-      color: black;
+      color: rgb(167, 18, 180);
   
   }
   p{
@@ -80,7 +80,7 @@
   }
   
   .footer{
-      background-color: #000000;
+      background-color: #e100ff;
       color:azure;
      
   
